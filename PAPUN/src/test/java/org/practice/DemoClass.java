@@ -7,6 +7,7 @@ public class DemoClass {
 		System.out.println("Papun");
 		System.out.println("bhai");
 		System.out.println("ka Naam");
+		System.out.println("bom bom bhole");
 		
 
 	}
